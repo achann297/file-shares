@@ -4,11 +4,12 @@
 <h1>File Sharing</h1>
 File sharing in a computer is essentially a process to send something out from your computer to another in joint access. Such example is that a folder that not only you access, but the overall network or directory can access based on permissions and groups. Using file shares are more efficient than sending constant emails back and forth of new file updates, or having access to certain files. File shares from Google Drive, Google Docs, Microsoft Excel are other programs other than just Windows.
 
-<h2>VPN Flow </h2>
+<h2>Purpose of File Sharing </h2>
 
-![image](https://github.com/achann297/vpn-usage/assets/162517715/86a88d6b-dd9f-452a-966b-49f9137e952f)
+![image](https://github.com/achann297/file-shares/assets/162517715/a53a647c-7c3f-44e3-95ef-503090d40418)
 
-Instead of browsing or sending data through a server through your personal IP, you would instead activate a VPN and run through the VPN server, and access the internet that way without having the risk of losing critical information. VPNs create an IP address to mask your current IP.
+
+Rather than sending out new programs or file updates or new documents constantly through email, file sharing can be used by an Admin to grant permissions to a wide range of users to limit the time used by the admin and it is also an easier way to keep everything organized and up to date. This is a big advantage for workers that are Remote, as it is more simplified for them to click on a shared folder where they have "Read permissions" for files. I.T teams can benefit from file sharing to limit the amount of storage used for certain files and programs, and to collectively access up to date programs. Companies can increase productivity and workflow without having to worry if each worker are having access to certain files and having to worry about running out of storage, or constantly looking for cluttered information. 
 
 
 <h2>VPN Usage</h2>
