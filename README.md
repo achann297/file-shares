@@ -26,6 +26,7 @@ Types of Permissions
 - Read Access
 - Write Access
 - No Access
+
 Multiple permissions can be selected based on what the company or person wants to grant to the group. Usually in a company if you distribute new program files, or training documents, information that is for the higher ups to edit, you would assign "Read Only" to users and "Read and Write" to Admins. Information that should NOT be viewed by a normal user should have the permissions of "No Access" in that case they will not be able to have access to view that folder.
 
 
