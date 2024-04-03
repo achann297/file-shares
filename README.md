@@ -1,7 +1,8 @@
-![image](https://github.com/achann297/vpn-usage/assets/162517715/a840bcf8-21eb-4878-948d-0798237fdb34)
+![image](https://github.com/achann297/file-shares/assets/162517715/8486a759-d176-4069-a135-0e41ab629029)
 
-<h1>Purpose of a VPN</h1>
-A VPN, which stands for Virtual Private Network, is used to have a secure connection on the user's computer and the internet. VPNs allow you to mask your IP address and send data through an encrypted tunnel.
+
+<h1>File Sharing</h1>
+File sharing in a computer is essentially a process to send something out from your computer to another in joint access. Such example is that a folder that not only you access, but the overall network or directory can access based on permissions and groups
 
 <h2>VPN Flow </h2>
 
