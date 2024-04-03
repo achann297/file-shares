@@ -2,7 +2,7 @@
 
 
 <h1>File Sharing</h1>
-File sharing in a computer is essentially a process to send something out from your computer to another in joint access. Such example is that a folder that not only you access, but the overall network or directory can access based on permissions and groups
+File sharing in a computer is essentially a process to send something out from your computer to another in joint access. Such example is that a folder that not only you access, but the overall network or directory can access based on permissions and groups. Using file shares are more efficient than sending constant emails back and forth of new file updates, or having access to certain files. File shares from Google Drive, Google Docs, Microsoft Excel are other programs other than just Windows.
 
 <h2>VPN Flow </h2>
 
